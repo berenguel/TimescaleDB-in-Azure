@@ -124,4 +124,3 @@ Step 12 - Test the new database  (Target Server)
 insert into conditions values ('2025-05-22 07:00:00', 'Edinburgh', 'Test3', 66, 77);
 select * from conditions;
 ```
-```
