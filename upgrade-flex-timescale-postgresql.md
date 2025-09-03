@@ -1,6 +1,9 @@
-# **Setting Up Logical Replication with TimescaleDB**
+# **Upgrading PostgreSQL major version in Azure Database for PostgreSQL Flexible Server, when TimescaleDB extension is enabled**
 
-This guide outlines the steps to set up logical replication from a source Azure Database for PostgreSQL Flexible Server to a target Azure Database for PostgreSQL Flexible Server, with TimescaleDB enabled.
+This guide outlines the steps to set up logical replication from a source Azure Database for PostgreSQL Flexible Server to a target Azure Database for PostgreSQL Flexible Server, with TimescaleDB enabled
+
+use case: upgrade the major version of PostgreSQL Flexible Server is your goal. For TimescaleDB extension version upgrade in Flexible Server, I recommend another approach.
+
 
 ## Pre Requisites
 
